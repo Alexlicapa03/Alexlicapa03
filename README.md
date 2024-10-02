@@ -1,5 +1,5 @@
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![Cat_November_2010-1a](https://github.com/user-attachments/assets/3966d09c-ec8e-49ba-acbd-de1af2d48694)
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
