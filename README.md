@@ -13,7 +13,7 @@ Encuéntrame en la web 🌎:
 ⭐️ From [Drey](https://github.com/Alexlicapa03)
  
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexlicapa03_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexlicapa03&show_icons=true&theme=transparent)
 
 
 <!--
